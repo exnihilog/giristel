@@ -1,5 +1,5 @@
 # giristel
-Basic Bootstrap Themplate
+Basic Bootstrap Template
 
 Main Screenshot
 [![Screenshot](https://giris.tel/assets/images/giristel.jpg)](https://giris.tel/)
